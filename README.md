@@ -1,10 +1,10 @@
 # Simple audio splitter
 
-Simple audio splitter GUI made with PySimpleGUI using hadcoded ffmpeg commands
+Simple audio splitter GUI made with PySimpleGUI using hadcoded ffmpeg commands.
 
 ## Usage
 
-Remember to install [**ffmpeg**](https://www.ffmpeg.org/) and [**python3-tk**](https://docs.python.org/3/library/tkinter.html) before running the binary in the releases section:
+Remember to install [**ffmpeg**](https://www.ffmpeg.org/) and [**python3-tk**](https://docs.python.org/3/library/tkinter.html) before running the binary:
 
 ```sh
 sudo apt install ffmpeg python3-tk
