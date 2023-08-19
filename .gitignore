@@ -1,0 +1,7 @@
+.venv/
+build/
+dist/
+out/
+*/__pycache__/
+*.pyc
+*.mp3
