@@ -13,7 +13,7 @@ sudo apt install ffmpeg python3-tk
 Then download and run the the binary as usual:
 
 ```sh
-# TODO: add wget command
+wget https://github.com/b-Tomas/simple-audio-splitter/releases/download/v0.1.0/audio-splitter
 ./audio-splitter
 ```
 
